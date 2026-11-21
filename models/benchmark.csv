@@ -1,0 +1,4 @@
+module,baseline,baseline_score,best_model,best_score,metric
+AR/AP anomaly,Rule baseline,0.5977011494252874,Random Forest,0.9642857142857143,F1
+Days-to-sell,Median baseline,0.44808985558956216,Linear Regression (log target),0.39999162317578946,MAPE (lower is better)
+Break-cause,Majority-class baseline,0.8780487804878049,Random Forest,0.975609756097561,Accuracy

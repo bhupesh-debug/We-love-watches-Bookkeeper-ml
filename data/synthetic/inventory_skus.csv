@@ -1,0 +1,151 @@
+sku,brand,model,entity,acquisition_date,unit_cost_usd,initial_qty
+WLW-001,Vacheron Constantin,Traditionnelle,WLW-EU,2025-04-09,13726.23,2
+WLW-002,Omega,De Ville,WLW-ASIA,2025-06-02,50533.18,3
+WLW-003,Audemars Piguet,Royal Oak Offshore,WLW-EU,2025-02-08,24552.19,3
+WLW-004,Rolex,GMT-Master II,WLW-ASIA,2025-01-29,11610.92,4
+WLW-005,Breguet,Classique,WLW-ASIA,2025-02-04,20056.91,4
+WLW-006,Patek Philippe,Calatrava,WLW-US,2025-04-10,63266.68,1
+WLW-007,Vacheron Constantin,Overseas,WLW-US,2025-06-17,11498.59,1
+WLW-008,Cartier,Pasha,WLW-US,2025-08-11,7056.27,1
+WLW-009,IWC,Portugieser,WLW-US,2025-08-05,32467.44,4
+WLW-010,Audemars Piguet,Royal Oak,WLW-US,2025-06-27,19598.89,2
+WLW-011,IWC,Portofino,WLW-ASIA,2025-06-30,44283.95,4
+WLW-012,Vacheron Constantin,Traditionnelle,WLW-ASIA,2025-06-23,8165.05,3
+WLW-013,Patek Philippe,Calatrava,WLW-ASIA,2025-07-04,50805.79,4
+WLW-014,Rolex,Daytona,WLW-US,2025-10-19,21415.04,2
+WLW-015,Breguet,Type XX,WLW-ASIA,2025-06-24,7297.57,4
+WLW-016,IWC,Pilot's Chronograph,WLW-US,2025-09-18,20432.68,1
+WLW-017,Rolex,Submariner,WLW-US,2025-03-14,7484.64,1
+WLW-018,Omega,Seamaster,WLW-US,2025-02-12,35953.97,4
+WLW-019,Cartier,Santos,WLW-EU,2025-05-16,19019.6,3
+WLW-020,A. Lange & Sohne,Lange 1,WLW-US,2025-08-08,12988.56,1
+WLW-021,Cartier,Pasha,WLW-ASIA,2025-01-04,25472.85,1
+WLW-022,Omega,De Ville,WLW-US,2025-10-04,15195.4,1
+WLW-023,Patek Philippe,Aquanaut,WLW-US,2025-08-10,16423.95,4
+WLW-024,Rolex,Datejust,WLW-US,2025-04-20,3000.0,1
+WLW-025,IWC,Portugieser,WLW-US,2025-08-31,66695.32,4
+WLW-026,Cartier,Drive de Cartier,WLW-EU,2025-07-19,13110.21,3
+WLW-027,Audemars Piguet,Royal Oak Offshore,WLW-US,2025-09-30,18533.28,4
+WLW-028,Cartier,Santos,WLW-US,2025-02-16,25975.46,1
+WLW-029,Vacheron Constantin,Patrimony,WLW-EU,2025-02-20,19359.41,4
+WLW-030,Rolex,Datejust,WLW-US,2025-03-04,57560.07,1
+WLW-031,Rolex,Submariner,WLW-EU,2025-03-25,25500.56,3
+WLW-032,Vacheron Constantin,Traditionnelle,WLW-US,2025-10-18,59277.08,3
+WLW-033,Rolex,GMT-Master II,WLW-US,2025-03-10,25008.85,3
+WLW-034,Vacheron Constantin,Patrimony,WLW-US,2025-05-27,3757.33,4
+WLW-035,Jaeger-LeCoultre,Master Ultra Thin,WLW-EU,2025-07-07,8903.9,2
+WLW-036,Cartier,Santos,WLW-US,2025-01-28,19232.63,2
+WLW-037,Audemars Piguet,Royal Oak,WLW-EU,2025-01-04,49468.54,3
+WLW-038,Audemars Piguet,Code 11.59,WLW-US,2025-03-02,13069.61,2
+WLW-039,Rolex,Day-Date,WLW-ASIA,2025-10-23,4475.19,3
+WLW-040,Jaeger-LeCoultre,Reverso,WLW-US,2025-08-30,3736.79,1
+WLW-041,Rolex,Datejust,WLW-EU,2025-09-03,18413.64,4
+WLW-042,Patek Philippe,Grand Complications,WLW-ASIA,2025-09-25,15686.6,3
+WLW-043,Rolex,Datejust,WLW-US,2025-10-23,25714.66,4
+WLW-044,Breguet,Type XX,WLW-EU,2025-05-07,64077.23,4
+WLW-045,Audemars Piguet,Royal Oak Offshore,WLW-US,2025-01-13,15172.93,2
+WLW-046,IWC,Portugieser,WLW-EU,2025-06-04,8534.15,3
+WLW-047,Rolex,Datejust,WLW-ASIA,2025-08-09,23535.43,2
+WLW-048,IWC,Pilot's Chronograph,WLW-US,2025-08-05,44085.88,4
+WLW-049,Cartier,Tank,WLW-EU,2025-02-23,7841.29,1
+WLW-050,Rolex,Day-Date,WLW-US,2025-04-02,18177.35,4
+WLW-051,Rolex,Submariner,WLW-US,2025-10-11,34537.53,4
+WLW-052,Cartier,Santos,WLW-US,2025-02-26,19830.8,4
+WLW-053,Vacheron Constantin,Traditionnelle,WLW-ASIA,2025-03-30,8817.05,1
+WLW-054,Rolex,GMT-Master II,WLW-EU,2025-06-10,19215.2,4
+WLW-055,Cartier,Drive de Cartier,WLW-US,2025-03-08,17066.17,2
+WLW-056,Omega,Constellation,WLW-EU,2025-06-25,6032.89,3
+WLW-057,Rolex,Datejust,WLW-US,2025-07-27,21383.65,4
+WLW-058,Rolex,Submariner,WLW-US,2025-08-12,44387.71,4
+WLW-059,Omega,Constellation,WLW-EU,2025-06-04,21702.58,4
+WLW-060,Breguet,Type XX,WLW-EU,2025-03-29,6838.04,3
+WLW-061,Patek Philippe,Calatrava,WLW-US,2025-03-04,69662.71,1
+WLW-062,Audemars Piguet,Royal Oak Offshore,WLW-EU,2025-10-05,85000.0,1
+WLW-063,Rolex,GMT-Master II,WLW-EU,2025-05-16,7322.58,3
+WLW-064,Patek Philippe,Aquanaut,WLW-US,2025-10-03,39692.1,3
+WLW-065,Patek Philippe,Grand Complications,WLW-US,2025-01-28,7940.66,3
+WLW-066,Audemars Piguet,Royal Oak,WLW-ASIA,2025-06-18,30051.45,2
+WLW-067,IWC,Pilot's Chronograph,WLW-US,2025-09-01,11565.03,2
+WLW-068,IWC,Portugieser,WLW-EU,2025-07-06,28463.22,4
+WLW-069,Rolex,Day-Date,WLW-US,2025-07-15,14762.67,2
+WLW-070,Patek Philippe,Aquanaut,WLW-ASIA,2025-08-17,18909.35,3
+WLW-071,Patek Philippe,Grand Complications,WLW-EU,2025-02-12,31434.71,1
+WLW-072,Omega,Seamaster,WLW-EU,2025-06-26,12172.82,4
+WLW-073,Jaeger-LeCoultre,Master Ultra Thin,WLW-US,2025-01-05,11544.21,3
+WLW-074,Vacheron Constantin,Traditionnelle,WLW-EU,2025-09-25,28389.67,4
+WLW-075,Omega,Seamaster,WLW-US,2025-03-29,12152.68,4
+WLW-076,Rolex,Daytona,WLW-EU,2025-04-23,21222.62,4
+WLW-077,Vacheron Constantin,Overseas,WLW-EU,2025-05-28,22931.47,3
+WLW-078,Vacheron Constantin,Patrimony,WLW-EU,2025-05-12,4246.61,4
+WLW-079,Patek Philippe,Aquanaut,WLW-US,2025-06-27,13345.68,3
+WLW-080,Vacheron Constantin,Patrimony,WLW-US,2025-03-17,30227.88,3
+WLW-081,Audemars Piguet,Royal Oak,WLW-US,2025-06-21,40573.35,2
+WLW-082,Patek Philippe,Grand Complications,WLW-US,2025-03-15,12290.81,1
+WLW-083,Audemars Piguet,Royal Oak Offshore,WLW-EU,2025-09-11,16825.06,3
+WLW-084,Cartier,Tank,WLW-EU,2025-05-11,10039.0,4
+WLW-085,Audemars Piguet,Code 11.59,WLW-ASIA,2025-01-23,13017.51,2
+WLW-086,Patek Philippe,Calatrava,WLW-EU,2025-05-18,4283.82,4
+WLW-087,Vacheron Constantin,Traditionnelle,WLW-US,2025-10-12,10622.7,2
+WLW-088,IWC,Portofino,WLW-US,2025-04-08,53747.15,3
+WLW-089,Audemars Piguet,Royal Oak Offshore,WLW-US,2025-09-26,11704.2,3
+WLW-090,Patek Philippe,Nautilus,WLW-ASIA,2025-09-26,20474.39,1
+WLW-091,Jaeger-LeCoultre,Reverso,WLW-EU,2025-07-02,45794.17,2
+WLW-092,Patek Philippe,Grand Complications,WLW-US,2025-07-17,7528.91,4
+WLW-093,Audemars Piguet,Royal Oak,WLW-US,2025-01-31,5776.87,3
+WLW-094,A. Lange & Sohne,Saxonia,WLW-US,2025-02-05,27511.42,3
+WLW-095,Vacheron Constantin,Traditionnelle,WLW-US,2025-09-28,24466.34,4
+WLW-096,Patek Philippe,Calatrava,WLW-EU,2025-06-30,13110.03,1
+WLW-097,Audemars Piguet,Royal Oak,WLW-ASIA,2025-05-09,4893.31,1
+WLW-098,Rolex,GMT-Master II,WLW-ASIA,2025-10-03,22498.92,2
+WLW-099,Rolex,GMT-Master II,WLW-EU,2025-06-24,84649.22,2
+WLW-100,Rolex,Daytona,WLW-EU,2025-03-14,9944.25,2
+WLW-101,Rolex,GMT-Master II,WLW-EU,2025-03-19,19901.93,1
+WLW-102,Patek Philippe,Aquanaut,WLW-EU,2025-10-22,47470.47,2
+WLW-103,A. Lange & Sohne,Saxonia,WLW-ASIA,2025-05-31,29872.41,3
+WLW-104,Rolex,GMT-Master II,WLW-EU,2025-08-18,8784.99,4
+WLW-105,Cartier,Drive de Cartier,WLW-EU,2025-02-11,42062.65,4
+WLW-106,Patek Philippe,Grand Complications,WLW-US,2025-02-25,20240.18,1
+WLW-107,IWC,Portofino,WLW-EU,2025-06-20,28603.82,4
+WLW-108,A. Lange & Sohne,Zeitwerk,WLW-EU,2025-03-01,84530.13,4
+WLW-109,Jaeger-LeCoultre,Polaris,WLW-US,2025-02-24,21605.08,1
+WLW-110,Cartier,Santos,WLW-EU,2025-02-09,43411.17,3
+WLW-111,Jaeger-LeCoultre,Polaris,WLW-EU,2025-09-28,14725.13,2
+WLW-112,IWC,Portugieser,WLW-EU,2025-08-10,70804.02,4
+WLW-113,Audemars Piguet,Royal Oak,WLW-US,2025-07-16,53985.95,1
+WLW-114,Audemars Piguet,Code 11.59,WLW-US,2025-09-17,35386.68,3
+WLW-115,Cartier,Tank,WLW-ASIA,2025-03-28,19358.44,4
+WLW-116,Omega,Seamaster,WLW-US,2025-01-10,15782.24,4
+WLW-117,Vacheron Constantin,Patrimony,WLW-US,2025-04-07,26731.15,1
+WLW-118,Rolex,Daytona,WLW-EU,2025-03-20,20445.57,2
+WLW-119,Patek Philippe,Nautilus,WLW-ASIA,2025-07-15,48397.96,3
+WLW-120,Omega,Seamaster,WLW-EU,2025-01-30,14396.43,3
+WLW-121,Audemars Piguet,Code 11.59,WLW-US,2025-01-08,3000.0,2
+WLW-122,Rolex,Daytona,WLW-US,2025-10-25,26461.63,3
+WLW-123,Audemars Piguet,Code 11.59,WLW-ASIA,2025-03-29,65059.36,1
+WLW-124,Rolex,Datejust,WLW-ASIA,2025-03-03,26154.56,3
+WLW-125,Patek Philippe,Aquanaut,WLW-ASIA,2025-02-20,14109.31,1
+WLW-126,Jaeger-LeCoultre,Master Ultra Thin,WLW-EU,2025-07-22,32513.06,2
+WLW-127,Rolex,GMT-Master II,WLW-ASIA,2025-08-11,20434.56,3
+WLW-128,Patek Philippe,Aquanaut,WLW-ASIA,2025-09-03,16912.67,2
+WLW-129,Rolex,Day-Date,WLW-ASIA,2025-02-09,8213.03,4
+WLW-130,Rolex,Daytona,WLW-US,2025-07-01,24612.25,1
+WLW-131,Audemars Piguet,Royal Oak Offshore,WLW-US,2025-06-26,20227.25,3
+WLW-132,Vacheron Constantin,Traditionnelle,WLW-US,2025-02-06,10123.01,4
+WLW-133,Patek Philippe,Grand Complications,WLW-EU,2025-09-16,16317.84,1
+WLW-134,Patek Philippe,Nautilus,WLW-US,2025-01-02,62939.52,1
+WLW-135,Omega,De Ville,WLW-US,2025-10-06,17822.41,4
+WLW-136,IWC,Pilot's Chronograph,WLW-ASIA,2025-04-09,20231.43,3
+WLW-137,Cartier,Santos,WLW-US,2025-09-16,14875.32,3
+WLW-138,Rolex,Daytona,WLW-ASIA,2025-02-16,18065.0,1
+WLW-139,Vacheron Constantin,Traditionnelle,WLW-EU,2025-04-15,10668.74,4
+WLW-140,Patek Philippe,Calatrava,WLW-ASIA,2025-07-18,16830.97,2
+WLW-141,Patek Philippe,Aquanaut,WLW-ASIA,2025-06-05,42576.91,1
+WLW-142,Breguet,Marine,WLW-US,2025-07-02,12563.95,4
+WLW-143,Jaeger-LeCoultre,Master Ultra Thin,WLW-US,2025-02-13,15342.29,2
+WLW-144,Cartier,Santos,WLW-US,2025-07-31,7251.78,2
+WLW-145,Rolex,Day-Date,WLW-EU,2025-07-17,25660.86,1
+WLW-146,Rolex,Day-Date,WLW-US,2025-04-01,11278.49,1
+WLW-147,IWC,Portofino,WLW-US,2025-04-22,12760.88,2
+WLW-148,Omega,Seamaster,WLW-US,2025-03-13,22901.63,1
+WLW-149,Patek Philippe,Calatrava,WLW-US,2025-02-24,17701.21,1
+WLW-150,Audemars Piguet,Royal Oak Offshore,WLW-US,2025-05-18,50113.22,4

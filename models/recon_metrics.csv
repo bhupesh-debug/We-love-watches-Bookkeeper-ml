@@ -1,0 +1,4 @@
+model,accuracy,macro_f1
+Majority-class baseline,0.8780487804878049,0.3116883116883117
+Random Forest,0.975609756097561,0.9286384976525822
+"Rule baseline (|diff| > $1,000) — break detection",0.9981785063752276,
